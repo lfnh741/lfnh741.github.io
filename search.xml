@@ -5,19 +5,19 @@
     
     <entry>
       <title><![CDATA[wupinnglun]]></title>
-      <url>http://localhost:4000/2016/09/02/wupinnglun/</url>
+      <url>http://lfnh741.github.io/2016/09/02/wupinnglun/</url>
       <content type="html"></content>
     </entry>
     
     <entry>
       <title><![CDATA[搭建hexo博客(下)]]></title>
-      <url>http://localhost:4000/2016/09/02/pinglun/</url>
+      <url>http://lfnh741.github.io/2016/09/02/pinglun/</url>
       <content type="html"></content>
     </entry>
     
     <entry>
       <title><![CDATA[搭建hexo博客(上)]]></title>
-      <url>http://localhost:4000/2016/08/31/fenlei/</url>
+      <url>http://lfnh741.github.io/2016/08/31/fenlei/</url>
       <content type="html"><![CDATA[<h2 id="1-安裝Nod-js"><a href="#1-安裝Nod-js" class="headerlink" title="1.安裝Nod.js"></a>1.安裝Nod.js</h2><p>搭建Hexo前提是必须先安装Node.js<br>下载：<a href="http://nodejs.org/download/" target="_blank" rel="external">http://nodejs.org/download/</a><br>安装时直接保持默认配置即可。</p>
 <h2 id="2-配置Github"><a href="#2-配置Github" class="headerlink" title="2.配置Github"></a>2.配置Github</h2><h3 id="1-1-建立Repository"><a href="#1-1-建立Repository" class="headerlink" title="1.1 建立Repository"></a>1.1 建立Repository</h3><p>建立与你用户名对应的仓库，仓库名必须为【your_user_name.github.io】</p>
 <h3 id="1-2-配置SSH-Key-需要启动ssh"><a href="#1-2-配置SSH-Key-需要启动ssh" class="headerlink" title="1.2 配置SSH-Key(需要启动ssh)"></a>1.2 配置SSH-Key(需要启动ssh)</h3><p>1、首先需要检查你电脑是否已经有 SSH key<br>运行 git Bash 客户端，输入如下代码：</p>
@@ -48,13 +48,13 @@
 <h3 id="1-2初始化"><a href="#1-2初始化" class="headerlink" title="1.2初始化"></a>1.2初始化</h3><p>然后，执行init命令初始化hexo到你指定的目录：<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo init &lt;folder&gt;</div></pre></td></tr></table></figure></p>
 <h3 id="1-3生成静态页面"><a href="#1-3生成静态页面" class="headerlink" title="1.3生成静态页面"></a>1.3生成静态页面</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
 <h3 id="1-4本地启动"><a href="#1-4本地启动" class="headerlink" title="1.4本地启动"></a>1.4本地启动</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>浏览器输入<a href="http://localhost:4000就可以看到效果。">http://localhost:4000就可以看到效果。</a></p>
+<p>浏览器输入<a href="http://localhost:4000就可以看到效果。" target="_blank" rel="external">http://localhost:4000就可以看到效果。</a></p>
 ]]></content>
     </entry>
     
     <entry>
       <title><![CDATA[Hexo]]></title>
-      <url>http://localhost:4000/2016/08/30/title/</url>
+      <url>http://lfnh741.github.io/2016/08/30/title/</url>
       <content type="html"><![CDATA[<h3 id="什么是hexo"><a href="#什么是hexo" class="headerlink" title="什么是hexo"></a>什么是hexo</h3><p>hexo是一个基于Node.js的静态博客程序，可以方便的生成静态网页托管在github和Heroku上。作者是来自台湾的@tommy351。引用@tommy351的话，hexo：</p>
 <pre><code>快速、简单且功能强大的 Node.js 博客框架。
 A fast, simple &amp; powerful blog framework, powered by Node.js.
@@ -65,7 +65,7 @@ A fast, simple &amp; powerful blog framework, powered by Node.js.
     
     <entry>
       <title><![CDATA[Hello World]]></title>
-      <url>http://localhost:4000/2016/08/29/hello-world/</url>
+      <url>http://lfnh741.github.io/2016/08/29/hello-world/</url>
       <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
