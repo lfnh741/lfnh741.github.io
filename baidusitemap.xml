@@ -3,6 +3,64 @@
 
 
     
+  <url>
+    <loc>http://localhost:4000/2016/08/31/fenlei/</loc>
+    <lastmod>2016-09-06T04:25:47.000Z</lastmod>
+    <data>
+        <display>
+        <title>搭建hexo博客(上)</title>
+        <pubTime>2016-08-31T08:09:53.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="随笔" url="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://localhost:4000/2016/09/02/pinglun/</loc>
+    <lastmod>2016-09-06T03:25:31.000Z</lastmod>
+    <data>
+        <display>
+        <title>搭建hexo博客(下)</title>
+        <pubTime>2016-09-02T02:03:36.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://localhost:4000/2016/08/30/title/</loc>
+    <lastmod>2016-09-05T09:29:19.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo</title>
+        <pubTime>2016-08-30T09:19:10.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="随笔" url="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
+          
+             
+              <breadCrumb title="瞬间" url="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/%E7%9E%AC%E9%97%B4/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
     
   <url>
@@ -20,66 +78,6 @@
     </url>
 
     
-  <url>
-    <loc>http://localhost:4000/2016/09/02/pinglun/</loc>
-    <lastmod>2016-09-02T02:05:56.000Z</lastmod>
-    <data>
-        <display>
-        <title>pinglun</title>
-        <pubTime>2016-09-02T02:03:36.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-    
-  <url>
-    <loc>http://localhost:4000/2016/08/31/fenlei/</loc>
-    <lastmod>2016-08-31T08:29:37.000Z</lastmod>
-    <data>
-        <display>
-        <title>fenlei</title>
-        <pubTime>2016-08-31T08:09:53.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="随笔" url="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://localhost:4000/2016/08/30/title/</loc>
-    <lastmod>2016-08-31T08:09:00.000Z</lastmod>
-    <data>
-        <display>
-        <title>新建文章</title>
-        <pubTime>2016-08-30T09:19:10.000Z</pubTime>
-        
-        <tag>hexo</tag>
-         
-        <tag>blog</tag>
-         
-        <tag>java</tag>
-         
-         
-           
-             
-              <breadCrumb title="随笔" url="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
-          
-             
-              <breadCrumb title="瞬间" url="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/%E7%9E%AC%E9%97%B4/"/>
-          
-        </display>
-    </data>
-    </url>
-
     
     
   <url>

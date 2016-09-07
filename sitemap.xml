@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://localhost:4000/2016/08/31/fenlei/</loc>
+    
+    <lastmod>2016-09-06T04:25:47.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/2016/09/02/pinglun/</loc>
+    
+    <lastmod>2016-09-06T03:25:31.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/2016/08/30/title/</loc>
+    
+    <lastmod>2016-09-05T09:29:19.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://localhost:4000/about/index.html</loc>
     
     <lastmod>2016-09-02T03:23:21.000Z</lastmod>
@@ -23,30 +44,9 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/2016/09/02/pinglun/</loc>
-    
-    <lastmod>2016-09-02T02:05:56.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://localhost:4000/search/index.html</loc>
     
     <lastmod>2016-09-01T02:04:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/2016/08/31/fenlei/</loc>
-    
-    <lastmod>2016-08-31T08:29:37.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/2016/08/30/title/</loc>
-    
-    <lastmod>2016-08-31T08:09:00.000Z</lastmod>
     
   </url>
   
